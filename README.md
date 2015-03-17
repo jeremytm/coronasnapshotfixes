@@ -1,8 +1,8 @@
-# h1 Corona SDK Snapshot Fixes
+# Corona SDK Snapshot Fixes
 
 Drop-in fixes for 2 corona snapshot issues.
 
-## h2 Problems Fixed
+## Problems Fixed
 1. Some items in the top and left halves of your snapshot are not rendered.
 2. Snapshots going black after switching apps on Android.
 
