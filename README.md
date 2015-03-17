@@ -7,7 +7,7 @@ Drop-in fixes for 2 corona snapshot issues.
 2. Snapshots going black after switching apps on Android.
 
 ### How To Use
-Simply paste the code from snapshots.lua into your project anywhere before you use snapshots.
+Simply paste the code from snapshots.lua into your project somewhere before you use snapshots. Preferably in a fixes.lua file which you call before anything else.
 
 Or require the file with:
 ``` lua
