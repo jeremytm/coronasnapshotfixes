@@ -10,7 +10,9 @@ Drop-in fixes for 2 corona snapshot issues.
 Simply paste the code from snapshots.lua into your project anywhere before you use snapshots.
 
 Or require the file with:
-`require("snapshots")`
+``` lua
+require("snapshots")
+```
 
 
 Enjoy.
